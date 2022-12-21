@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ziopera27
-- 👀 I’m interested in ... licking balls
-- 🌱 I’m currently learning ... how to lick balls
-- 💞️ I’m looking to collaborate on ... licking balls
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ... 
 
 <!---
 ziopera27/ziopera27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
